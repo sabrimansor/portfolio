@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksabrimansor_portfolio_website=self.webpackChunksabrimansor_portfolio_website||[]).push([[446],{8446:function(e,s,c){s.default=c.p+"static/Feather-f780c210ecac8211626013242c3ecdfc.svg"}}]);
+//# sourceMappingURL=446-0572adae1fc3bce885a0.js.map
