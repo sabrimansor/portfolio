@@ -49,7 +49,6 @@ export const InnerType = {
     id: IDType,
     title: PropTypes.string,
     section_title: PropTypes.shape(SectionTitleType),
-    title: PropTypes.string,
     subtitle: PropTypes.string,
     is_featured: PropTypes.bool,
     price: PropTypes.string,
